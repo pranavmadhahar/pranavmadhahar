@@ -63,8 +63,3 @@ During this journey, I also managed significant personal responsibilities and ch
 Developed by **Pranav Madhahar**  
 Full‑stack web developer & AI/LLM engineer with MBA background.  
 Focused on lifelong learning, modular agentic systems, and architect‑level design.
-
-
-
-- ⚡ Fun fact: ...
--->
