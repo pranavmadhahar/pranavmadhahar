@@ -1,11 +1,11 @@
-# Pranav's Learning Journey 🚀
+# Pranav's Learning Journey
 
 Welcome to my curated portfolio of projects and study notes.  
 This collection reflects my progression from foundational concepts to advanced system design, and documents my pivot into technology after a career in business.
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m Pranav — a full‑stack web developer and AI/LLM engineer with an MBA background.  
 After my previous role ended in 2019 due to project restructuring, I dedicated time to reskilling through structured courses and building projects.  
@@ -14,7 +14,7 @@ During this journey, I also managed significant personal responsibilities and ch
 
 ---
 
-## 📚 Knowledge Bases
+## Knowledge Bases
 
 - [Ready-Reckoners](https://github.com/pranavmadhahar/Ready-Reckoners) — quick reference notes across stacks  
 - Cloud, Docker, Kubernetes, Git, Linux notes  
@@ -22,7 +22,7 @@ During this journey, I also managed significant personal responsibilities and ch
 
 ---
 
-## 💻 Learning Journey Projects
+## Learning Journey Projects
 
 - Django/Flask projects
 - React/Tailwind projects  
@@ -31,7 +31,7 @@ During this journey, I also managed significant personal responsibilities and ch
 
 ---
 
-## 🛠️ Skills Highlighted
+## Skills Highlighted
 
 - Repo hygiene & professional commit conventions  
 - Modular agentic systems for lifelong learning  
@@ -41,7 +41,7 @@ During this journey, I also managed significant personal responsibilities and ch
 
 ---
 
-## 🌟 Growth Timeline
+## Growth Timeline
 
 - **2019–2021**: Pivot from business → tech, foundational notes and experiments  
 - **2022–2024**: Beginner → intermediate projects, structured repos (Flask blog, React apps)  
@@ -50,7 +50,7 @@ During this journey, I also managed significant personal responsibilities and ch
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 - Expand with more advanced system design notes  
 - Add architecture diagrams and visuals for projects  
@@ -58,7 +58,7 @@ During this journey, I also managed significant personal responsibilities and ch
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Developed by **Pranav Madhahar**  
 Full‑stack web developer & AI/LLM engineer with MBA background.  
